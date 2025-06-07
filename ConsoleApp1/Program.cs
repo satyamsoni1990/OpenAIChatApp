@@ -2,7 +2,7 @@
 using Azure;
 using Azure.AI.OpenAI;
 
-var endpoint = new Uri("https://satya-mbmbpvox-eastus2.cognitiveservices.azure.com/");
+var endpoint = new Uri("Yourendpoint");
 var deploymentName = "gpt-4";
 var apiKey = "<your-api-key>";
 Console.WriteLine("Ask your Question.");
